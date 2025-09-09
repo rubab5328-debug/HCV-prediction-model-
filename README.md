@@ -71,7 +71,7 @@ The main focus is to explore how **SMOTE (Synthetic Minority Oversampling Techni
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/hcv-classification.git
+git clone https://github.com/rubab5328-debug/hcv-classification.git
 cd hcv-classification
 
 # Install dependencies
